@@ -44,6 +44,7 @@ One of the most significant challenges was decoding transactions from various pl
 - **Limited publicly available documentation.**
 - **Sparse explanations of IDLs** (Interface Definition Language files).
 - **Uncertainty about platform accessibility:** Not all platforms like open source and even if they do the documentation is very minimal causing deeper research.
+
 Overcoming these obstacles required extensive research and experimentation, which helped deepen my understanding of blockchain transaction structures.
 
 ### Future Improvements
@@ -51,4 +52,5 @@ This project has significant potential for further enhancement, depending on the
 - **Platform Expansion:** Extend support for transaction decoding to additional platforms within the ecosystem.
 - **Optimization:** Refine the current decoding processes to handle edge cases and improve performance.
 - **Analytics and Visualization:** Integrate tools for analytics and visualization to provide user-friendly insights into transaction data.
+
 While the initial focus was on the three most commonly used platforms for trading, future work could broaden the scope to encompass niche or emerging platforms.
