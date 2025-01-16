@@ -54,3 +54,7 @@ This project has significant potential for further enhancement, depending on the
 - **Analytics and Visualization:** Integrate tools for analytics and visualization to provide user-friendly insights into transaction data.
 
 While the initial focus was on the three most commonly used platforms for trading, future work could broaden the scope to encompass niche or emerging platforms.
+
+## Demo GIF
+
+![Transaction Demo](media/Transaction-demo.gif)
