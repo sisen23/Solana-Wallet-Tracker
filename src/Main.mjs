@@ -27,7 +27,7 @@ const RPC_URL = process.env.RPC_URL;
 const walletsToTrack = [
     { name: 'test1', address: 'AxHrZRSv4VmvTy3pg36FKcU7eopvCDWSq8j6gGrKE5e1' },
     { name: 'test2', address: 'BcJZmCdbzRZvCuFMRPmg6oSQ7XSoVTGN4afuJSQojAXL' },
-    { name: 'test3', address: '5Nj4diJyDCeb7dNwXxCQVpChEC5Y37kcCmjtWezKDbce' },
+    { name: 'test3', address: 'Dub9ftLXPxbB5TjCzU35oNKzyFkYQdH6jaA1VQo7ZfgR' }
 ];
 
 // Establish WebSocket connection for each wallet
