@@ -50,6 +50,7 @@ Overcoming these obstacles required extensive research and experimentation, whic
 ### Future Improvements
 This project has significant potential for further enhancement, depending on the time and resources invested. Key areas for improvement include:
 - **Platform Expansion:** Extend support for transaction decoding to additional platforms within the ecosystem.
+- **Implementation:** With a little bit of tweaking you can run this on a cloud setup and link it to discord or telegram to have it running at all times and have transaction notifications on your mobile device.
 - **Optimization:** Refine the current decoding processes to handle edge cases and improve performance.
 - **Analytics and Visualization:** Integrate tools for analytics and visualization to provide user-friendly insights into transaction data.
 
