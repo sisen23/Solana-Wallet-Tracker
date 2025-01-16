@@ -1,4 +1,4 @@
-# Blockchain Transaction Tracker
+# Solana Blockchain Transaction Tracker
 
 A Node.js project demonstrating real-time blockchain transaction tracking and processing using WebSocket subscriptions and RPC calls. This code processes transactions into human readable transactions if the wallet uses PumpFun, Raydium, or Jupiter. These are the main three platforms used in the Solana ecosystem. Transactions outside of these are labeled Unkown with the signature. 
 
@@ -34,7 +34,7 @@ Here's a brief look at the project's main components:
   WebSocket for test1 (AxHrZRSv4VmvTy3pg36FKcU7eopvCDWSq8j6gGrKE5e1) established.
   Received signature: <signature> for test1 (AxHrZRSv4VmvTy3pg36FKcU7eopvCDWSq8j6gGrKE5e1)
   Raydium
-  Swapped 1.23 SOL for 2.34 USDC
+  Swapped 1.23 SOL (So11111111111111111111111111111111111111112) for 265.23 USDC (EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v)
 
 
 ## Challenges and Future Improvements
