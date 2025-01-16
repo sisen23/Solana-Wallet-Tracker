@@ -1,0 +1,7 @@
+# Ignore environment files
+config/.env
+
+# Ignore specific files in src/
+src/Jupiter.mjs
+src/Raydium.mjs
+src/Pumpfun.mjs
